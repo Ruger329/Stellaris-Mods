@@ -1,2 +1,2 @@
-# Stellaris_Mod
-My Mods for Stellaris
+# Stellaris Mods
+My Mods for Stellaris.
